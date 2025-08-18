@@ -1,11 +1,13 @@
 # Video Prompt Builder MVP - Current State Documentation
 
 ## Project Status
-- **Date**: 2025-08-02T19:48:38Z
+- **Date**: 2025-08-02T20:02:45Z
 - **Next.js Version**: 15.4.5 (with Turbopack)
 - **Server Status**: ✅ Running on http://localhost:3000 (PID: 12535)
 - **Build Status**: ✅ Operational
 - **MVP Status**: ✅ COMPLETE
+- **Repository**: ✅ Created and backed up
+- **GitHub URL**: https://github.com/AndrewVoirol/video-prompt-builder-mvp
 
 ## Current Architecture
 

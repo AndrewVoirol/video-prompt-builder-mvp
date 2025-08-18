@@ -1,6 +1,6 @@
 "use client"
 
-import { PromptBuilder } from "@/components/prompt-builder"
+import { PromptBuilderClean } from "@/components/prompt-builder-clean"
 import { ThemeToggle } from "@/components/theme-toggle"
 
 export default function Home() {
@@ -17,7 +17,7 @@ export default function Home() {
         <ThemeToggle />
       </div>
       
-      <PromptBuilder />
+      <PromptBuilderClean />
     </div>
   )
 }
